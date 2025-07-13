@@ -9,9 +9,10 @@ import { Mountain } from "lucide-react"
 import { GlobalSearchResults } from "@/components/global-search-results"
 import { LanguageProvider } from "@/context/language-context"
 import { LanguageToggle } from "@/components/language-toggle"
-import { useTranslation } from "@/hooks/use-translation"
 import { InteractiveBackground } from "@/components/interactive-background"
 import { GradientBackground } from "@/components/gradient-background"
+import { HeaderNav } from "@/components/header-nav"
+import { FooterContent } from "@/components/footer-content"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -19,41 +20,6 @@ export const metadata: Metadata = {
   title: "Prompt Engineering Hub",
   description: "Discover, share, and refine prompts for AI models.",
     generator: 'v0.dev'
-}
-
-// Define a wrapper component to use useTranslation hook for the footer
-function FooterContent() {
-  const t = useTranslation()
-  return (
-    <>
-      <p className="text-xs text-muted-foreground">
-        &copy; {new Date().getFullYear()} PromptHub. {t("all_rights_reserved")}
-      </p>
-      <nav className="sm:ml-auto flex gap-4 sm:gap-6">
-        <Link href="#" className="text-xs hover:underline underline-offset-4">
-          {t("terms_of_service")}
-        </Link>
-        <Link href="#" className="text-xs hover:underline underline-offset-4">
-          {t("privacy_policy")}
-        </Link>
-      </nav>
-    </>
-  )
-}
-
-// Define a wrapper component to use useTranslation hook for the header navigation
-function HeaderNav() {
-  const t = useTranslation()
-  return (
-    <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-      <Link href="/text-prompts" className="hover:underline underline-offset-4 text-foreground">
-        {t("nav_text_prompts")}
-      </Link>
-      <Link href="/image-prompts" className="hover:underline underline-offset-4 text-foreground">
-        {t("nav_image_prompts")}
-      </Link>
-    </nav>
-  )
 }
 
 export default function RootLayout({
