@@ -1,0 +1,224 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* White */
+    --foreground: 222.2 84% 4.9%; /* Dark Blue */
+
+    --card: 0 0% 100%; /* White */
+    --card-foreground: 222.2 84% 4.9%; /* Dark Blue */
+
+    --popover: 0 0% 100%; /* White */
+    --popover-foreground: 222.2 84% 4.9%; /* Dark Blue */
+
+    --primary: 210 90% 40%; /* Medium Blue */
+    --primary-foreground: 210 40% 98%; /* Light Blue */
+
+    --secondary: 210 40% 96.1%; /* Light Grayish Blue */
+    --secondary-foreground: 222.2 47.4% 11.2%; /* Darker Blue */
+
+    --muted: 210 40% 96.1%; /* Light Grayish Blue */
+    --muted-foreground: 215.4 16.3% 46.9%; /* Grayish Blue */
+
+    --accent: 210 40% 96.1%; /* Light Grayish Blue */
+    --accent-foreground: 222.2 47.4% 11.2%; /* Darker Blue */
+
+    --destructive: 0 84.2% 60.2%; /* Red */
+    --destructive-foreground: 210 40% 98%; /* Light Blue */
+
+    --border: 214.3 31.8% 91.4%; /* Light Gray */
+    --input: 214.3 31.8% 91.4%; /* Light Gray */
+    --ring: 210 90% 40%; /* Medium Blue */
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217.2 91.2% 59.8%; /* Lighter Blue for dark mode */
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Enhanced animations */
+@keyframes gradient-shift {
+  0%,
+  100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 0.3;
+  }
+  25% {
+    transform: scale(1.1) rotate(90deg);
+    opacity: 0.4;
+  }
+  50% {
+    transform: scale(1.05) rotate(180deg);
+    opacity: 0.35;
+  }
+  75% {
+    transform: scale(1.15) rotate(270deg);
+    opacity: 0.45;
+  }
+}
+
+@keyframes particle-animation {
+  0% {
+    transform: translateY(0) translateX(0) scale(1);
+    opacity: 0;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    transform: translateY(-20px) translateX(10px) scale(1.1);
+    opacity: 1;
+  }
+  75% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(-40px) translateX(20px) scale(0.9);
+    opacity: 0;
+  }
+}
+
+.particle {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  animation: particle-animation linear infinite;
+  pointer-events: none;
+}
+
+/* Particle variations for hero section */
+.particle:nth-child(1) {
+  width: 8px;
+  height: 8px;
+  top: 10%;
+  left: 20%;
+  animation-duration: 15s;
+  animation-delay: 0s;
+}
+.particle:nth-child(2) {
+  width: 12px;
+  height: 12px;
+  top: 30%;
+  left: 80%;
+  animation-duration: 18s;
+  animation-delay: 2s;
+}
+.particle:nth-child(3) {
+  width: 6px;
+  height: 6px;
+  top: 50%;
+  left: 50%;
+  animation-duration: 12s;
+  animation-delay: 4s;
+}
+.particle:nth-child(4) {
+  width: 10px;
+  height: 10px;
+  top: 70%;
+  left: 10%;
+  animation-duration: 20s;
+  animation-delay: 6s;
+}
+.particle:nth-child(5) {
+  width: 14px;
+  height: 14px;
+  top: 90%;
+  left: 60%;
+  animation-duration: 16s;
+  animation-delay: 8s;
+}
+.particle:nth-child(6) {
+  width: 7px;
+  height: 7px;
+  top: 20%;
+  left: 40%;
+  animation-duration: 13s;
+  animation-delay: 1s;
+}
+.particle:nth-child(7) {
+  width: 11px;
+  height: 11px;
+  top: 45%;
+  left: 90%;
+  animation-duration: 19s;
+  animation-delay: 3s;
+}
+.particle:nth-child(8) {
+  width: 9px;
+  height: 9px;
+  top: 65%;
+  left: 30%;
+  animation-duration: 14s;
+  animation-delay: 5s;
+}
+.particle:nth-child(9) {
+  width: 13px;
+  height: 13px;
+  top: 80%;
+  left: 75%;
+  animation-duration: 17s;
+  animation-delay: 7s;
+}
+.particle:nth-child(10) {
+  width: 5px;
+  height: 5px;
+  top: 5%;
+  left: 5%;
+  animation-duration: 11s;
+  animation-delay: 9s;
+}
+
+/* Smooth transitions for interactive elements */
+.interactive-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure content is above background effects */
+.content-layer {
+  position: relative;
+  z-index: 10;
+}
