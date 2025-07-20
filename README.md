@@ -1,11 +1,11 @@
-# PromptHub
+# Prompt Engineering Studio
 
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
 ![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)
 
 ## 项目简介
 
-PromptHub 是一个基于 Next.js 的提示工程开发平台，旨在帮助开发者高效地创建、测试和部署 AI 提示工程应用。
+Prompt Engineering Studio 是一个基于 Next.js 的提示工程开发平台，旨在帮助开发者高效地创建、测试和部署 AI 提示工程应用。
 
 ## 功能特点
 
@@ -16,7 +16,7 @@ PromptHub 是一个基于 Next.js 的提示工程开发平台，旨在帮助开�
 
 ## 目录结构
 
-\`\`\`
+```
 prompt-engineering/
 ├── app/         # 应用主目录
 ├── components/  # UI 组件
@@ -34,7 +34,7 @@ prompt-engineering/
 ├── postcss.config.mjs # CSS 处理配置
 ├── tailwind.config.ts # Tailwind CSS 配置
 └── tsconfig.json   # TypeScript 配置
-\`\`\`
+```
 
 ## 使用指南
 
@@ -46,27 +46,27 @@ prompt-engineering/
 
 ### 安装依赖
 
-\`\`\`bash
+```bash
 pnpm install
-\`\`\`
+```
 
 ### 本地开发
 
-\`\`\`bash
+```bash
 pnpm dev
-\`\`\`
+```
 
 ### 构建项目
 
-\`\`\`bash
+```bash
 pnpm build
-\`\`\`
+```
 
 ### 部署项目
 
-\`\`\`bash
+```bash
 pnpm deploy
-\`\`\`
+```
 
 ## 贡献指南
 
@@ -90,4 +90,4 @@ pnpm deploy
 
 ---
 
-感谢您使用 PromptHub，让我们一起推动 AI 提示工程的发展！
+感谢您使用 Prompt Engineering Studio，让我们一起推动 AI 提示工程的发展！
