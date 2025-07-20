@@ -6,8 +6,18 @@
     "title_zh": "创意写作提示：科幻发现",
     "content_en": "Write a short story about a lone astronaut discovering an ancient alien artifact on a seemingly barren moon. What does it look like? What does it do? How does it change their mission? Focus on the astronaut's internal monologue and the sensory details of the discovery.\n\n**Keywords:** #sci-fi #discovery #astronaut #alien #mystery",
     "content_zh": "写一个关于一名孤独宇航员在看似荒芜的月球上发现一件古老外星文物的小故事。它长什么样？它有什么作用？它如何改变他们的任务？重点关注宇航员的内心独白和发现的感官细节。\n\n**关键词：** #科幻 #发现 #宇航员 #外星人 #神秘",
-    "tags_en": ["writing", "storytelling", "sci-fi", "creative"],
-    "tags_zh": ["写作", "讲故事", "科幻", "创意"],
+    "tags_en": [
+      "writing",
+      "storytelling",
+      "sci-fi",
+      "creative"
+    ],
+    "tags_zh": [
+      "写作",
+      "讲故事",
+      "科幻",
+      "创意"
+    ],
     "favorites": 120
   },
   {
@@ -17,8 +27,18 @@
     "title_zh": "编程提示：安全API设计",
     "content_en": "Design a RESTful API for a user authentication system. Detail the endpoints, request/response formats, and security considerations (e.g., JWT, OAuth2, rate limiting, input validation). Provide example code snippets for one endpoint.\n\n**Keywords:** #programming #api #security #authentication #rest",
     "content_zh": "设计一个用于用户认证系统的RESTful API。详细说明端点、请求/响应格式以及安全考虑（例如，JWT、OAuth2、速率限制、输入验证）。提供一个端点的示例代码片段。\n\n**关键词：** #编程 #API #安全 #认证 #REST",
-    "tags_en": ["programming", "backend", "security", "api"],
-    "tags_zh": ["编程", "后端", "安全", "API"],
+    "tags_en": [
+      "programming",
+      "backend",
+      "security",
+      "api"
+    ],
+    "tags_zh": [
+      "编程",
+      "后端",
+      "安全",
+      "API"
+    ],
     "favorites": 85
   },
   {
@@ -28,8 +48,18 @@
     "title_zh": "营销提示：社交媒体活动",
     "content_en": "Develop a social media campaign strategy for a new eco-friendly coffee brand. Include target audience, key messages, platform selection (e.g., Instagram, TikTok), content ideas, and success metrics. Outline a 3-week content calendar.\n\n**Keywords:** #marketing #socialmedia #branding #eco-friendly #campaign",
     "content_zh": "为新的环保咖啡品牌制定社交媒体营销策略。包括目标受众、关键信息、平台选择（例如，Instagram、TikTok）、内容创意和成功指标。概述一个3周的内容日历。\n\n**关键词：** #营销 #社交媒体 #品牌推广 #环保 #活动",
-    "tags_en": ["marketing", "social media", "branding", "strategy"],
-    "tags_zh": ["营销", "社交媒体", "品牌推广", "策略"],
+    "tags_en": [
+      "marketing",
+      "social media",
+      "branding",
+      "strategy"
+    ],
+    "tags_zh": [
+      "营销",
+      "社交媒体",
+      "品牌推广",
+      "策略"
+    ],
     "favorites": 150
   },
   {
@@ -39,8 +69,18 @@
     "title_zh": "教育提示：解释量子纠缠",
     "content_en": "Explain quantum entanglement to a high school student using simple analogies. Avoid complex mathematical formulas. Focus on the core concept and its implications. Provide a real-world (or hypothetical) example.\n\n**Keywords:** #education #science #physics #quantum #explanation",
     "content_zh": "用简单的类比向高中生解释量子纠缠。避免复杂的数学公式。重点关注核心概念及其含义。提供一个真实世界（或假设）的例子。\n\n**关键词：** #教育 #科学 #物理 #量子 #解释",
-    "tags_en": ["education", "science", "physics", "explanation"],
-    "tags_zh": ["教育", "科学", "物理", "解释"],
+    "tags_en": [
+      "education",
+      "science",
+      "physics",
+      "explanation"
+    ],
+    "tags_zh": [
+      "教育",
+      "科学",
+      "物理",
+      "解释"
+    ],
     "favorites": 95
   },
   {
@@ -50,9 +90,19 @@
     "title_zh": "赛博朋克城市景观",
     "prompt_en": "A sprawling cyberpunk city at night, neon lights reflecting on wet streets, flying cars, towering skyscrapers, rain. --ar 16:9 --v 5.2 --s 750 --q 2 --chaos 10",
     "prompt_zh": "夜晚广阔的赛博朋克城市，霓虹灯倒映在湿漉漉的街道上，飞行的汽车，高耸的摩天大楼，雨。--ar 16:9 --v 5.2 --s 750 --q 2 --chaos 10",
-    "imageUrl": "/placeholder.svg?height=400&width=600",
-    "styleTags_en": ["cyberpunk", "futuristic", "cityscape", "neon"],
-    "styleTags_zh": ["赛博朋克", "未来主义", "城市景观", "霓虹"],
+    "imageUrl": "/images/CyberpunkCityscape.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "cyberpunk",
+      "futuristic",
+      "cityscape",
+      "neon"
+    ],
+    "styleTags_zh": [
+      "赛博朋克",
+      "未来主义",
+      "城市景观",
+      "霓虹"
+    ],
     "favorites": 300
   },
   {
@@ -62,9 +112,19 @@
     "title_zh": "奇幻森林居所",
     "prompt_en": "A whimsical treehouse dwelling nestled deep within an ancient, glowing fantasy forest. Soft, ethereal light, moss-covered branches, magical creatures in the background. --ar 3:2 --v 5.1 --s 500 --style raw",
     "prompt_zh": "一个异想天开的树屋住宅，深藏在古老、发光的奇幻森林中。柔和、空灵的光线，长满苔藓的树枝，背景中的魔法生物。--ar 3:2 --v 5.1 --s 500 --style raw",
-    "imageUrl": "/placeholder.svg?height=400&width=600",
-    "styleTags_en": ["fantasy", "whimsical", "forest", "ethereal"],
-    "styleTags_zh": ["奇幻", "异想天开", "森林", "空灵"],
+    "imageUrl": "/images/FantasyForestDwelling.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "fantasy",
+      "whimsical",
+      "forest",
+      "ethereal"
+    ],
+    "styleTags_zh": [
+      "奇幻",
+      "异想天开",
+      "森林",
+      "空灵"
+    ],
     "favorites": 250
   },
   {
@@ -74,9 +134,19 @@
     "title_zh": "写实肖像",
     "prompt_en": "A hyper-realistic portrait of an elderly woman with kind eyes, intricate wrinkles, and a gentle smile. Natural lighting, shallow depth of field, detailed skin texture. --ar 2:3 --v 5.2 --s 1000 --stylize 250",
     "prompt_zh": "一位慈祥老妇人的超写实肖像，眼神和善，皱纹细致，笑容温柔。自然光，浅景深，皮肤纹理细节丰富。--ar 2:3 --v 5.2 --s 1000 --stylize 250",
-    "imageUrl": "/placeholder.svg?height=600&width=400",
-    "styleTags_en": ["realistic", "portrait", "human", "detailed"],
-    "styleTags_zh": ["写实", "肖像", "人物", "细节"],
+    "imageUrl": "/images/RealisticPortrait.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "realistic",
+      "portrait",
+      "human",
+      "detailed"
+    ],
+    "styleTags_zh": [
+      "写实",
+      "肖像",
+      "人物",
+      "细节"
+    ],
     "favorites": 400
   },
   {
@@ -86,9 +156,19 @@
     "title_zh": "动漫角色设计",
     "prompt_en": "Full body anime character design, female warrior, dynamic pose, intricate armor, flowing hair, magical sword, vibrant colors, studio ghibli style. --ar 9:16 --v 5.2 --s 800 --niji 5",
     "prompt_zh": "全身动漫角色设计，女战士，动态姿势，复杂盔甲，飘逸的头发，魔法剑，鲜艳的色彩，吉卜力工作室风格。--ar 9:16 --v 5.2 --s 800 --niji 5",
-    "imageUrl": "/placeholder.svg?height=600&width=400",
-    "styleTags_en": ["anime", "character design", "fantasy", "vibrant"],
-    "styleTags_zh": ["动漫", "角色设计", "奇幻", "鲜艳"],
+    "imageUrl": "/images/AnimeCharacterDesign.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "anime",
+      "character design",
+      "fantasy",
+      "vibrant"
+    ],
+    "styleTags_zh": [
+      "动漫",
+      "角色设计",
+      "奇幻",
+      "鲜艳"
+    ],
     "favorites": 350
   }
 ]

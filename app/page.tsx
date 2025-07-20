@@ -58,7 +58,7 @@ export default function HomePage() {
               </div>
               <div className="relative w-full h-64 md:h-96 rounded-xl overflow-hidden shadow-xl">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/index.png?height=400&width=600"
                   alt="Prompt Engineering Concept"
                   fill
                   className="rounded-xl object-cover"

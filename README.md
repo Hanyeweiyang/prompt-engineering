@@ -1,30 +1,93 @@
-# Next js application
+# Prompt Engineering Studio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/hanyeweiyangs-projects/v0-next-js-application)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/qbdbTvzi8IE)
+## 项目简介
 
-## Overview
+Prompt Engineering Studio 是一个基于 Next.js 的提示工程开发平台，旨在帮助开发者高效地创建、测试和部署 AI 提示工程应用。
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 功能特点
 
-## Deployment
+- **一键部署**：通过 Vercel 平台实现快速部署
+- **模块化开发**：支持组件化开发，便于代码复用
+- **国际化支持**：内置多语言支持，便于全球用户使用
+- **响应式设计**：适配各种设备，提供最佳用户体验
 
-Your project is live at:
+## 目录结构
 
-**[https://vercel.com/hanyeweiyangs-projects/v0-next-js-application](https://vercel.com/hanyeweiyangs-projects/v0-next-js-application)**
+```
+prompt-engineering/
+├── app/         # 应用主目录
+├── components/  # UI 组件
+├── context/     # 全局状态管理
+├── data/        # 数据处理
+├── hooks/       # 自定义钩子
+├── locales/     # 国际化资源
+├── public/      # 静态资源
+├── styles/      # 样式文件
+├── README.md    # 项目说明
+├── components.json # 组件配置
+├── next.config.mjs # Next.js 配置
+├── package.json    # 项目依赖
+├── pnpm-lock.yaml  # 依赖锁定
+├── postcss.config.mjs # CSS 处理配置
+├── tailwind.config.ts # Tailwind CSS 配置
+└── tsconfig.json   # TypeScript 配置
+```
 
-## Build your app
+## 使用指南
 
-Continue building your app on:
+### 环境准备
 
-**[https://v0.dev/chat/projects/qbdbTvzi8IE](https://v0.dev/chat/projects/qbdbTvzi8IE)**
+- Node.js 18.0+
+- pnpm 包管理器
+- Vercel 账号
 
-## How It Works
+### 安装依赖
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+pnpm install
+```
+
+### 本地开发
+
+```bash
+pnpm dev
+```
+
+### 构建项目
+
+```bash
+pnpm build
+```
+
+### 部署项目
+
+```bash
+pnpm deploy
+```
+
+## 贡献指南
+
+欢迎提交 Pull Request 或 Issue 来帮助改进项目。在提交代码前，请确保：
+
+- 代码符合项目代码风格
+- 通过所有测试用例
+- 更新了相应的文档
+
+## 许可证
+
+本项目采用 MIT 许可证。请查看 LICENSE 文件了解更多信息。
+
+## 联系方式
+
+如有任何问题或建议，请通过以下方式联系：
+
+- GitHub Issue
+- 项目讨论区
+- 邮件支持
+
+---
+
+感谢您使用 Prompt Engineering Studio，让我们一起推动 AI 提示工程的发展！
