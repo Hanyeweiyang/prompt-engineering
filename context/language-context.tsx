@@ -7,7 +7,7 @@ import { createContext, useContext, useState, useCallback, useEffect } from "rea
 import enTranslations from "../locales/en.json"
 import zhTranslations from "../locales/zh.json"
 
-type Language = "en" | "zh"
+type Language = "zh" | "en"
 
 interface Translation {
   [key: string]: string

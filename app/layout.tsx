@@ -19,7 +19,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Prompt Engineering Hub",
   description: "Discover, share, and refine prompts for AI models.",
-    generator: 'v0.dev'
+  generator: "Prompt Engineering Hub",
 }
 
 export default function RootLayout({
