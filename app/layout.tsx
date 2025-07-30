@@ -17,9 +17,9 @@ import { FooterContent } from "@/components/footer-content"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Prompt Engineering Hub",
+  title: "提示工程分享平台",
   description: "Discover, share, and refine prompts for AI models.",
-  generator: "Prompt Engineering Hub",
+  generator: "提示工程分享平台",
 }
 
 export default function RootLayout({

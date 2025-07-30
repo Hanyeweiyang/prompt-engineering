@@ -1,0 +1,624 @@
+[
+  {
+    "id": "text-1",
+    "type": "text",
+    "title_en": "Creative Writing Prompt: Sci-Fi Discovery",
+    "title_zh": "创意写作提示：科幻发现",
+    "content_en": "Write a short story about a lone astronaut discovering an ancient alien artifact on a seemingly barren moon. What does it look like? What does it do? How does it change their mission? Focus on the astronaut's internal monologue and the sensory details of the discovery.\n\n**Keywords:** #sci-fi #discovery #astronaut #alien #mystery",
+    "content_zh": "写一个关于一名孤独宇航员在看似荒芜的月球上发现一件古老外星文物的小故事。它长什么样？它有什么作用？它如何改变他们的任务？重点关注宇航员的内心独白和发现的感官细节。\n\n**关键词：** #科幻 #发现 #宇航员 #外星人 #神秘",
+    "tags_en": [
+      "writing",
+      "storytelling",
+      "sci-fi",
+      "creative"
+    ],
+    "tags_zh": [
+      "写作",
+      "讲故事",
+      "科幻",
+      "创意"
+    ],
+    "favorites": 120
+  },
+  {
+    "id": "text-2",
+    "type": "text",
+    "title_en": "Programming Prompt: Secure API Design",
+    "title_zh": "编程提示：安全API设计",
+    "content_en": "Design a RESTful API for a user authentication system. Detail the endpoints, request/response formats, and security considerations (e.g., JWT, OAuth2, rate limiting, input validation). Provide example code snippets for one endpoint.\n\n**Keywords:** #programming #api #security #authentication #rest",
+    "content_zh": "设计一个用于用户认证系统的RESTful API。详细说明端点、请求/响应格式以及安全考虑（例如，JWT、OAuth2、速率限制、输入验证）。提供一个端点的示例代码片段。\n\n**关键词：** #编程 #API #安全 #认证 #REST",
+    "tags_en": [
+      "programming",
+      "backend",
+      "security",
+      "api"
+    ],
+    "tags_zh": [
+      "编程",
+      "后端",
+      "安全",
+      "API"
+    ],
+    "favorites": 85
+  },
+  {
+    "id": "text-3",
+    "type": "text",
+    "title_en": "Marketing Prompt: Social Media Campaign",
+    "title_zh": "营销提示：社交媒体活动",
+    "content_en": "Develop a social media campaign strategy for a new eco-friendly coffee brand. Include target audience, key messages, platform selection (e.g., Instagram, TikTok), content ideas, and success metrics. Outline a 3-week content calendar.\n\n**Keywords:** #marketing #socialmedia #branding #eco-friendly #campaign",
+    "content_zh": "为新的环保咖啡品牌制定社交媒体营销策略。包括目标受众、关键信息、平台选择（例如，Instagram、TikTok）、内容创意和成功指标。概述一个3周的内容日历。\n\n**关键词：** #营销 #社交媒体 #品牌推广 #环保 #活动",
+    "tags_en": [
+      "marketing",
+      "social media",
+      "branding",
+      "strategy"
+    ],
+    "tags_zh": [
+      "营销",
+      "社交媒体",
+      "品牌推广",
+      "策略"
+    ],
+    "favorites": 150
+  },
+  {
+    "id": "text-4",
+    "type": "text",
+    "title_en": "Educational Prompt: Explain Quantum Entanglement",
+    "title_zh": "教育提示：解释量子纠缠",
+    "content_en": "Explain quantum entanglement to a high school student using simple analogies. Avoid complex mathematical formulas. Focus on the core concept and its implications. Provide a real-world (or hypothetical) example.\n\n**Keywords:** #education #science #physics #quantum #explanation",
+    "content_zh": "用简单的类比向高中生解释量子纠缠。避免复杂的数学公式。重点关注核心概念及其含义。提供一个真实世界（或假设）的例子。\n\n**关键词：** #教育 #科学 #物理 #量子 #解释",
+    "tags_en": [
+      "education",
+      "science",
+      "physics",
+      "explanation"
+    ],
+    "tags_zh": [
+      "教育",
+      "科学",
+      "物理",
+      "解释"
+    ],
+    "favorites": 95
+  },
+  {
+    "id": "text-5",
+    "type": "text",
+    "title_en": "Business Prompt: Startup Pitch Deck",
+    "title_zh": "商业提示：初创公司推介演示文稿",
+    "content_en": "Create a compelling pitch deck for a tech startup that develops AI-powered mental health chatbots. Include problem statement, solution, market size, business model, competitive advantage, team, and financial projections. Keep each slide concise and visually appealing.\n\n**Keywords:** #business #startup #pitch #AI #mentalhealth",
+    "content_zh": "为一家开发AI驱动的心理健康聊天机器人的科技初创公司创建一个引人注目的推介演示文稿。包括问题陈述、解决方案、市场规模、商业模式、竞争优势、团队和财务预测。保持每张幻灯片简洁且具有视觉吸引力。\n\n**关键词：** #商业 #初创公司 #推介 #AI #心理健康",
+    "tags_en": [
+      "business",
+      "startup",
+      "pitch",
+      "AI",
+      "mental health"
+    ],
+    "tags_zh": [
+      "商业",
+      "初创公司",
+      "推介",
+      "AI",
+      "心理健康"
+    ],
+    "favorites": 110
+  },
+  {
+    "id": "text-6",
+    "type": "text",
+    "title_en": "Academic Prompt: Research Paper Abstract",
+    "title_zh": "学术提示：研究论文摘要",
+    "content_en": "Write an abstract for a research paper exploring the impact of social media on adolescent sleep patterns. Include background, methodology, key findings, and implications. Keep it under 250 words and use formal academic language.\n\n**Keywords:** #academic #research #socialmedia #adolescents #sleep",
+    "content_zh": "为一篇探讨社交媒体对青少年睡眠模式影响的研究论文写一篇摘要。包括背景、方法论、主要发现和意义。保持在250字以内，使用正式的学术语言。\n\n**关键词：** #学术 #研究 #社交媒体 #青少年 #睡眠",
+    "tags_en": [
+      "academic",
+      "research",
+      "social media",
+      "adolescents",
+      "sleep"
+    ],
+    "tags_zh": [
+      "学术",
+      "研究",
+      "社交媒体",
+      "青少年",
+      "睡眠"
+    ],
+    "favorites": 75
+  },
+  {
+    "id": "text-7",
+    "type": "text",
+    "title_en": "Creative Prompt: Alternate History",
+    "title_zh": "创意提示：另类历史",
+    "content_en": "Imagine an alternate history where the Internet was invented in the 1920s instead of the 1960s. How would society, politics, and culture be different today? Write a brief essay exploring the implications of this change.\n\n**Keywords:** #creative #history #alternate #internet #society",
+    "content_zh": "想象一个另类历史，互联网是在1920年代而不是1960年代发明的。今天的社会、政治和文化会有什么不同？写一篇短文探讨这一变化的影响。\n\n**关键词：** #创意 #历史 #另类 #互联网 #社会",
+    "tags_en": [
+      "creative",
+      "history",
+      "alternate",
+      "internet",
+      "society"
+    ],
+    "tags_zh": [
+      "创意",
+      "历史",
+      "另类",
+      "互联网",
+      "社会"
+    ],
+    "favorites": 135
+  },
+  {
+    "id": "text-8",
+    "type": "text",
+    "title_en": "Technical Prompt: Cloud Migration Strategy",
+    "title_zh": "技术提示：云迁移策略",
+    "content_en": "Develop a comprehensive cloud migration strategy for a mid-sized e-commerce company currently running on-premises infrastructure. Include assessment criteria, migration approaches (rehost, refactor, rearchitect), timeline, risks, and cost considerations.\n\n**Keywords:** #technical #cloud #migration #ecommerce #infrastructure",
+    "content_zh": "为一家目前运行本地基础设施的中型电子商务公司制定全面的云迁移策略。包括评估标准、迁移方法（重新托管、重构、重新架构）、时间表、风险和成本考虑。\n\n**关键词：** #技术 #云 #迁移 #电子商务 #基础设施",
+    "tags_en": [
+      "technical",
+      "cloud",
+      "migration",
+      "ecommerce",
+      "infrastructure"
+    ],
+    "tags_zh": [
+      "技术",
+      "云",
+      "迁移",
+      "电子商务",
+      "基础设施"
+    ],
+    "favorites": 90
+  },
+  {
+    "id": "text-9",
+    "type": "text",
+    "title_en": "Educational Prompt: Interactive Lesson Plan",
+    "title_zh": "教育提示：互动课程计划",
+    "content_en": "Design an interactive 60-minute lesson plan for teaching photosynthesis to 7th-grade students. Include learning objectives, materials needed, step-by-step activities, assessment methods, and differentiation strategies for diverse learners.\n\n**Keywords:** #education #lessonplan #science #photosynthesis #interactive",
+    "content_zh": "为七年级学生设计一个60分钟的互动光合作用课程计划。包括学习目标、所需材料、逐步活动、评估方法和针对不同学习者的差异化策略。\n\n**关键词：** #教育 #课程计划 #科学 #光合作用 #互动",
+    "tags_en": [
+      "education",
+      "lesson plan",
+      "science",
+      "photosynthesis",
+      "interactive"
+    ],
+    "tags_zh": [
+      "教育",
+      "课程计划",
+      "科学",
+      "光合作用",
+      "互动"
+    ],
+    "favorites": 80
+  },
+  {
+    "id": "text-10",
+    "type": "text",
+    "title_en": "Content Prompt: Blog Post Outline",
+    "title_zh": "内容提示：博客文章大纲",
+    "content_en": "Create a detailed outline for a blog post titled '10 Sustainable Living Practices That Won't Break the Bank'. Include an engaging introduction, main sections with key points for each practice, potential statistics or studies to reference, and a compelling conclusion with a call to action.\n\n**Keywords:** #content #blog #sustainability #lifestyle #outline",
+    "content_zh": "为一篇题为种不会让你破产的可持续生活方式的博客文章创建详细大纲。包括引人入胜的引言、每个实践的主要部分和要点、可引用的潜在统计数据或研究，以及包含行动号召的引人注目的结论。\n\n**关键词：** #内容 #博客 #可持续性 #生活方式 #大纲",
+    "tags_en": [
+      "content",
+      "blog",
+      "sustainability",
+      "lifestyle",
+      "outline"
+    ],
+    "tags_zh": [
+      "内容",
+      "博客",
+      "可持续性",
+      "生活方式",
+      "大纲"
+    ],
+    "favorites": 105
+  },
+  {
+    "id": "text-11",
+    "type": "text",
+    "title_en": "Legal Prompt: Contract Review Checklist",
+    "title_zh": "法律提示：合同审查清单",
+    "content_en": "Develop a comprehensive checklist for reviewing freelance web development contracts. Include key elements to look for, potential red flags, negotiation points, and best practices for protecting both parties' interests.\n\n**Keywords:** #legal #contract #freelance #webdevelopment #checklist",
+    "content_zh": "为审查自由职业网站开发合同制定一份全面的清单。包括需要查找的关键要素、潜在危险信号、谈判要点以及保护双方利益的最佳实践。\n\n**关键词：** #法律 #合同 #自由职业 #网站开发 #清单",
+    "tags_en": [
+      "legal",
+      "contract",
+      "freelance",
+      "web development",
+      "checklist"
+    ],
+    "tags_zh": [
+      "法律",
+      "合同",
+      "自由职业",
+      "网站开发",
+      "清单"
+    ],
+    "favorites": 70
+  },
+  {
+    "id": "text-12",
+    "type": "text",
+    "title_en": "Healthcare Prompt: Patient Education Material",
+    "title_zh": "医疗提示：患者教育材料",
+    "content_en": "Create patient education material about managing Type 2 diabetes through diet and exercise. Use clear, simple language appropriate for a general audience. Include key facts, practical tips, common misconceptions, and when to contact a healthcare provider.\n\n**Keywords:** #healthcare #patienteducation #diabetes #diet #exercise",
+    "content_zh": "创建关于通过饮食和运动管理2型糖尿病的患者教育材料。使用适合普通受众的清晰、简单的语言。包括关键事实、实用技巧、常见误解以及何时联系医疗保健提供者。\n\n**关键词：** #医疗 #患者教育 #糖尿病 #饮食 #运动",
+    "tags_en": [
+      "healthcare",
+      "patient education",
+      "diabetes",
+      "diet",
+      "exercise"
+    ],
+    "tags_zh": [
+      "医疗",
+      "患者教育",
+      "糖尿病",
+      "饮食",
+      "运动"
+    ],
+    "favorites": 88
+  },
+  {
+    "id": "text-13",
+    "type": "text",
+    "title_en": "Game Design Prompt: Narrative-Driven RPG",
+    "title_zh": "游戏设计提示：叙事驱动RPG",
+    "content_en": "Design a narrative-driven RPG set in a post-apocalyptic world where choices significantly impact the story's outcome. Detail the core gameplay mechanics, branching storylines, character development system, and moral decision framework.\n\n**Keywords:** #gamedesign #RPG #narrative #postapocalyptic #choices",
+    "content_zh": "设计一款以选择显著影响故事结果的后末日世界为背景的叙事驱动RPG。详细说明核心游戏机制、分支故事情节、角色发展系统和道德决策框架。\n\n**关键词：** #游戏设计 #RPG #叙事 #后末日 #选择",
+    "tags_en": [
+      "game design",
+      "RPG",
+      "narrative",
+      "post-apocalyptic",
+      "choices"
+    ],
+    "tags_zh": [
+      "游戏设计",
+      "RPG",
+      "叙事",
+      "后末日",
+      "选择"
+    ],
+    "favorites": 125
+  },
+  {
+    "id": "text-14",
+    "type": "text",
+    "title_en": "UX Design Prompt: Mobile App Onboarding",
+    "title_zh": "用户体验设计提示：移动应用入门",
+    "content_en": "Design an effective onboarding experience for a new meditation and mindfulness mobile app. Focus on user engagement, clear value proposition, progressive feature introduction, and minimizing friction in the sign-up process.\n\n**Keywords:** #UX #design #mobile #onboarding #mindfulness",
+    "content_zh": "为一款新的冥想和正念移动应用设计有效的入门体验。专注于用户参与、明确的价值主张、渐进式功能介绍以及最小化注册过程中的摩擦。\n\n**关键词：** #用户体验 #设计 #移动 #入门 #正念",
+    "tags_en": [
+      "UX",
+      "design",
+      "mobile",
+      "onboarding",
+      "mindfulness"
+    ],
+    "tags_zh": [
+      "用户体验",
+      "设计",
+      "移动",
+      "入门",
+      "正念"
+    ],
+    "favorites": 92
+  },
+  {
+    "id": "image-1",
+    "type": "image",
+    "title_en": "Cyberpunk Cityscape",
+    "title_zh": "赛博朋克城市景观",
+    "prompt_en": "A sprawling cyberpunk city at night, neon lights reflecting on wet streets, flying cars, towering skyscrapers, rain. --ar 16:9 --v 5.2 --s 750 --q 2 --chaos 10",
+    "prompt_zh": "夜晚广阔的赛博朋克城市，霓虹灯倒映在湿漉漉的街道上，飞行的汽车，高耸的摩天大楼，雨。--ar 16:9 --v 5.2 --s 750 --q 2 --chaos 10",
+    "imageUrl": "/images/CyberpunkCityscape.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "cyberpunk",
+      "futuristic",
+      "cityscape",
+      "neon"
+    ],
+    "styleTags_zh": [
+      "赛博朋克",
+      "未来主义",
+      "城市景观",
+      "霓虹"
+    ],
+    "favorites": 300
+  },
+  {
+    "id": "image-2",
+    "type": "image",
+    "title_en": "Fantasy Forest Dwelling",
+    "title_zh": "奇幻森林居所",
+    "prompt_en": "A whimsical treehouse dwelling nestled deep within an ancient, glowing fantasy forest. Soft, ethereal light, moss-covered branches, magical creatures in the background. --ar 3:2 --v 5.1 --s 500 --style raw",
+    "prompt_zh": "一个异想天开的树屋住宅，深藏在古老、发光的奇幻森林中。柔和、空灵的光线，长满苔藓的树枝，背景中的魔法生物。--ar 3:2 --v 5.1 --s 500 --style raw",
+    "imageUrl": "/images/FantasyForestDwelling.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "fantasy",
+      "whimsical",
+      "forest",
+      "ethereal"
+    ],
+    "styleTags_zh": [
+      "奇幻",
+      "异想天开",
+      "森林",
+      "空灵"
+    ],
+    "favorites": 250
+  },
+  {
+    "id": "image-3",
+    "type": "image",
+    "title_en": "Realistic Portrait",
+    "title_zh": "写实肖像",
+    "prompt_en": "A hyper-realistic portrait of an elderly woman with kind eyes, intricate wrinkles, and a gentle smile. Natural lighting, shallow depth of field, detailed skin texture. --ar 2:3 --v 5.2 --s 1000 --stylize 250",
+    "prompt_zh": "一位慈祥老妇人的超写实肖像，眼神和善，皱纹细致，笑容温柔。自然光，浅景深，皮肤纹理细节丰富。--ar 2:3 --v 5.2 --s 1000 --stylize 250",
+    "imageUrl": "/images/RealisticPortrait.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "realistic",
+      "portrait",
+      "human",
+      "detailed"
+    ],
+    "styleTags_zh": [
+      "写实",
+      "肖像",
+      "人物",
+      "细节"
+    ],
+    "favorites": 400
+  },
+  {
+    "id": "image-4",
+    "type": "image",
+    "title_en": "Anime Character Design",
+    "title_zh": "动漫角色设计",
+    "prompt_en": "Full body anime character design, female warrior, dynamic pose, intricate armor, flowing hair, magical sword, vibrant colors, studio ghibli style. --ar 9:16 --v 5.2 --s 800 --niji 5",
+    "prompt_zh": "全身动漫角色设计，女战士，动态姿势，复杂盔甲，飘逸的头发，魔法剑，鲜艳的色彩，吉卜力工作室风格。--ar 9:16 --v 5.2 --s 800 --niji 5",
+    "imageUrl": "/images/AnimeCharacterDesign.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "anime",
+      "character design",
+      "fantasy",
+      "vibrant"
+    ],
+    "styleTags_zh": [
+      "动漫",
+      "角色设计",
+      "奇幻",
+      "鲜艳"
+    ],
+    "favorites": 350
+  },
+  {
+    "id": "image-5",
+    "type": "image",
+    "title_en": "Steampunk Airship",
+    "title_zh": "蒸汽朋克飞艇",
+    "prompt_en": "A majestic steampunk airship floating above Victorian-era London. Brass fittings, billowing steam, ornate wooden decks, leather sails, mechanical gadgets. Dramatic lighting with golden hour sun. --ar 16:9 --v 5.2 --s 750 --q 2",
+    "prompt_zh": "一艘雄伟的蒸汽朋克飞艇漂浮在维多利亚时代的伦敦上空。黄铜配件，滚滚蒸汽，华丽的木制甲板，皮革风帆，机械装置。金色时光太阳的戏剧性照明。--ar 16:9 --v 5.2 --s 750 --q 2",
+    "imageUrl": "/images/SteampunkAirship.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "steampunk",
+      "victorian",
+      "airship",
+      "mechanical"
+    ],
+    "styleTags_zh": [
+      "蒸汽朋克",
+      "维多利亚",
+      "飞艇",
+      "机械"
+    ],
+    "favorites": 275
+  },
+  {
+    "id": "image-6",
+    "type": "image",
+    "title_en": "Abstract Digital Art",
+    "title_zh": "抽象数字艺术",
+    "prompt_en": "Abstract digital artwork featuring flowing geometric shapes, vibrant color gradients, and dynamic lighting effects. Modern, futuristic aesthetic with elements of glitch art and cyberpunk influences. --ar 1:1 --v 5.2 --s 800 --chaos 60",
+    "prompt_zh": "抽象数字艺术作品，具有流动的几何形状、鲜艳的色彩渐变和动态灯光效果。现代、未来主义美学，带有故障艺术和赛博朋克影响元素。--ar 1:1 --v 5.2 --s 800 --chaos 60",
+    "imageUrl": "/images/AbstractDigitalArt.jpeg?height=600&width=600",
+    "styleTags_en": [
+      "abstract",
+      "digital",
+      "geometric",
+      "vibrant"
+    ],
+    "styleTags_zh": [
+      "抽象",
+      "数字",
+      "几何",
+      "鲜艳"
+    ],
+    "favorites": 220
+  },
+  {
+    "id": "image-7",
+    "type": "image",
+    "title_en": "Historical Battle Scene",
+    "title_zh": "历史战斗场面",
+    "prompt_en": "Epic medieval battle scene with knights on horseback, detailed armor, waving banners, dramatic clouds, and a castle in the background. Realistic style with cinematic lighting. --ar 21:9 --v 5.1 --s 700 --stylize 300",
+    "prompt_zh": "史诗般的中世纪战斗场面，骑士骑马，详细盔甲，飘扬的旗帜，戏剧性的云彩，背景中的城堡。写实风格，电影灯光效果。--ar 21:9 --v 5.1 --s 700 --stylize 300",
+    "imageUrl": "/images/HistoricalBattleScene.jpeg?height=300&width=700",
+    "styleTags_en": [
+      "historical",
+      "medieval",
+      "battle",
+      "epic"
+    ],
+    "styleTags_zh": [
+      "历史",
+      "中世纪",
+      "战斗",
+      "史诗"
+    ],
+    "favorites": 180
+  },
+  {
+    "id": "image-8",
+    "type": "image",
+    "title_en": "Underwater Coral Reef",
+    "title_zh": "水下珊瑚礁",
+    "prompt_en": "Vibrant underwater coral reef ecosystem with colorful fish, sea turtles, and intricate coral formations. Sunlight filtering through the water, bubbles, and floating particles. Photorealistic style. --ar 3:2 --v 5.2 --s 750 --stylize 200",
+    "prompt_zh": "充满活力的水下珊瑚礁生态系统，有彩色鱼类、海龟和复杂的珊瑚构造。阳光透过水面，气泡和悬浮颗粒。照片级真实风格。--ar 3:2 --v 5.2 --s 750 --stylize 200",
+    "imageUrl": "/images/UnderwaterCoralReef.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "underwater",
+      "nature",
+      "coral",
+      "vibrant"
+    ],
+    "styleTags_zh": [
+      "水下",
+      "自然",
+      "珊瑚",
+      "鲜艳"
+    ],
+    "favorites": 320
+  },
+  {
+    "id": "image-9",
+    "type": "image",
+    "title_en": "Minimalist Product Design",
+    "title_zh": "极简主义产品设计",
+    "prompt_en": "Minimalist product photography of a modern smartwatch on a clean white background. Sleek design, metallic finish, subtle reflections. Professional studio lighting. --ar 4:5 --v 5.2 --s 1000 --stylize 500",
+    "prompt_zh": "现代智能手表在干净白色背景上的极简主义产品摄影。时尚设计，金属表面，微妙的反射。专业工作室灯光。--ar 4:5 --v 5.2 --s 1000 --stylize 500",
+    "imageUrl": "/images/MinimalistProductDesign.jpeg?height=600&width=480",
+    "styleTags_en": [
+      "minimalist",
+      "product",
+      "modern",
+      "photography"
+    ],
+    "styleTags_zh": [
+      "极简主义",
+      "产品",
+      "现代",
+      "摄影"
+    ],
+    "favorites": 190
+  },
+  {
+    "id": "image-10",
+    "type": "image",
+    "title_en": "Surreal Landscape",
+    "title_zh": "超现实景观",
+    "prompt_en": "Surreal dreamscape with floating islands, upside-down waterfalls, giant mushrooms, and glowing butterflies. Magritte-inspired style with impossible architecture and vibrant colors. --ar 2:1 --v 5.2 --s 900 --chaos 40",
+    "prompt_zh": "超现实梦境景观，有漂浮的岛屿、倒流的瀑布、巨大的蘑菇和发光的蝴蝶。马格里特风格，具有不可能的建筑和鲜艳的色彩。--ar 2:1 --v 5.2 --s 900 --chaos 40",
+    "imageUrl": "/images/SurrealLandscape.jpeg?height=300&width=600",
+    "styleTags_en": [
+      "surreal",
+      "dreamscape",
+      "fantasy",
+      "artistic"
+    ],
+    "styleTags_zh": [
+      "超现实",
+      "梦境",
+      "奇幻",
+      "艺术"
+    ],
+    "favorites": 295
+  },
+  {
+    "id": "image-11",
+    "type": "image",
+    "title_en": "Architectural Visualization",
+    "title_zh": "建筑可视化",
+    "prompt_en": "Futuristic eco-friendly skyscraper surrounded by greenery and solar panels. Modern glass facade, vertical gardens, sustainable design elements. Sunset lighting with warm tones. --ar 3:4 --v 5.2 --s 850 --stylize 400",
+    "prompt_zh": "被绿色植物和太阳能电池板环绕的未来环保摩天大楼。现代玻璃幕墙，垂直花园，可持续设计元素。日落灯光，暖色调。--ar 3:4 --v 5.2 --s 850 --stylize 400",
+    "imageUrl": "/images/ArchitecturalVisualization.jpeg?height=600&width=450",
+    "styleTags_en": [
+      "architectural",
+      "futuristic",
+      "sustainable",
+      "visualization"
+    ],
+    "styleTags_zh": [
+      "建筑",
+      "未来主义",
+      "可持续",
+      "可视化"
+    ],
+    "favorites": 265
+  },
+  {
+    "id": "image-12",
+    "type": "image",
+    "title_en": "Food Photography",
+    "title_zh": "食品摄影",
+    "prompt_en": "Overhead shot of a gourmet avocado toast with microgreens, cherry tomatoes, and poached egg. Rustic wooden background, natural lighting, shallow depth of field. Instagram-style food photography. --ar 1:1 --v 5.2 --s 900 --stylize 600",
+    "prompt_zh": "俯拍美食牛油果吐司，配有芽菜、樱桃番茄和水煮蛋。乡村木制背景，自然光，浅景深。Instagram风格的食品摄影。--ar 1:1 --v 5.2 --s 900 --stylize 600",
+    "imageUrl": "/images/FoodPhotography.jpeg?height=600&width=600",
+    "styleTags_en": [
+      "food",
+      "photography",
+      "gourmet",
+      "bright"
+    ],
+    "styleTags_zh": [
+      "食品",
+      "摄影",
+      "美食",
+      "明亮"
+    ],
+    "favorites": 210
+  },
+  {
+    "id": "image-13",
+    "type": "image",
+    "title_en": "Sci-Fi Character Portrait",
+    "title_zh": "科幻角色肖像",
+    "prompt_en": "Close-up portrait of a sci-fi character with cybernetic implants, holographic tattoos, and LED accents. Moody lighting with blue and purple tones. Detailed character design with story implications. --ar 4:5 --v 5.2 --s 800 --niji 5",
+    "prompt_zh": "科幻角色的特写肖像，带有神经植入物、全息纹身和LED装饰。蓝色和紫色调的氛围灯光。详细的角色设计，具有故事暗示。--ar 4:5 --v 5.2 --s 800 --niji 5",
+    "imageUrl": "/images/SciFiCharacterPortrait.jpeg?height=600&width=480",
+    "styleTags_en": [
+      "sci-fi",
+      "character",
+      "cyberpunk",
+      "portrait"
+    ],
+    "styleTags_zh": [
+      "科幻",
+      "角色",
+      "赛博朋克",
+      "肖像"
+    ],
+    "favorites": 310
+  },
+  {
+    "id": "image-14",
+    "type": "image",
+    "title_en": "Nature Wildlife",
+    "title_zh": "自然野生动物",
+    "prompt_en": "Majestic lion in the African savanna during golden hour. Detailed fur texture, intense gaze, dry grassland background. National Geographic style wildlife photography. --ar 3:2 --v 5.2 --s 1000 --stylize 250",
+    "prompt_zh": "非洲大草原日落时分的雄狮。详细的毛皮纹理，专注的凝视，干燥的草原背景。国家地理风格的野生动物摄影。--ar 3:2 --v 5.2 --s 1000 --stylize 250",
+    "imageUrl": "/images/NatureWildlife.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "nature",
+      "wildlife",
+      "african",
+      "photography"
+    ],
+    "styleTags_zh": [
+      "自然",
+      "野生动物",
+      "非洲",
+      "摄影"
+    ],
+    "favorites": 380
+  }
+]

@@ -170,5 +170,435 @@
       "鲜艳"
     ],
     "favorites": 350
+  },
+  {
+    "id": "text-5",
+    "type": "text",
+    "title_en": "Historical Fiction Prompt: Medieval Market",
+    "title_zh": "历史小说提示：中世纪市场",
+    "content_en": "Describe a bustling medieval market from the perspective of a traveling merchant. Include sensory details like smells, sounds, and sights. What goods are being sold? What challenges does the merchant face? What interesting characters do they encounter?\n\n**Keywords:** #historical-fiction #medieval #market #merchant #storytelling",
+    "content_zh": "从旅行商人的视角描述一个热闹的中世纪市场。包括嗅觉、听觉和视觉等感官细节。市场上在卖什么商品？商人面临什么挑战？他们遇到了哪些有趣的人物？\n\n**关键词：** #历史小说 #中世纪 #市场 #商人 #讲故事",
+    "tags_en": [
+      "writing",
+      "historical fiction",
+      "medieval",
+      "storytelling"
+    ],
+    "tags_zh": [
+      "写作",
+      "历史小说",
+      "中世纪",
+      "讲故事"
+    ],
+    "favorites": 78
+  },
+  {
+    "id": "text-6",
+    "type": "text",
+    "title_en": "Business Prompt: Startup Pitch Deck",
+    "title_zh": "商业提示：初创公司推介",
+    "content_en": "Create a pitch deck for a tech startup that develops AI-powered mental health apps. Include problem statement, solution, market size, business model, competitive advantage, team, and financial projections. Keep each slide concise and visually appealing.\n\n**Keywords:** #business #startup #pitch #AI #mental-health",
+    "content_zh": "为一家开发人工智能驱动的心理健康应用的科技初创公司制作推介幻灯片。包括问题陈述、解决方案、市场规模、商业模式、竞争优势、团队和财务预测。保持每张幻灯片简洁且具有视觉吸引力。\n\n**关键词：** #商业 #初创公司 #推介 #人工智能 #心理健康",
+    "tags_en": [
+      "business",
+      "startup",
+      "pitch deck",
+      "entrepreneurship"
+    ],
+    "tags_zh": [
+      "商业",
+      "初创公司",
+      "推介",
+      "创业"
+    ],
+    "favorites": 132
+  },
+  {
+    "id": "text-7",
+    "type": "text",
+    "title_en": "Poetry Prompt: Haiku Collection",
+    "title_zh": "诗歌提示：俳句集",
+    "content_en": "Write a collection of five haikus about the changing seasons. Each haiku should follow the traditional 5-7-5 syllable structure. Focus on nature imagery and the emotions each season evokes. Try to capture a moment in time.\n\n**Keywords:** #poetry #haiku #seasons #nature #creative-writing",
+    "content_zh": "写一组关于四季变化的五首俳句。每首俳句应遵循传统的5-7-5音节结构。专注于自然意象和每个季节唤起的情感。尝试捕捉一个瞬间。\n\n**关键词：** #诗歌 #俳句 #季节 #自然 #创意写作",
+    "tags_en": [
+      "poetry",
+      "creative writing",
+      "nature",
+      "seasons"
+    ],
+    "tags_zh": [
+      "诗歌",
+      "创意写作",
+      "自然",
+      "季节"
+    ],
+    "favorites": 96
+  },
+  {
+    "id": "text-8",
+    "type": "text",
+    "title_en": "Data Science Prompt: Customer Analysis",
+    "title_zh": "数据科学提示：客户分析",
+    "content_en": "Analyze customer behavior data for an e-commerce platform. Identify patterns in purchasing behavior, customer segmentation, and churn prediction. Provide visualizations and recommendations for improving customer retention. Use Python or R for your analysis.\n\n**Keywords:** #data-science #analytics #customer-behavior #python #visualization",
+    "content_zh": "分析电子商务平台的客户行为数据。识别购买行为、客户细分和流失预测中的模式。提供可视化和改善客户留存的建议。使用Python或R进行分析。\n\n**关键词：** #数据科学 #分析 #客户行为 #Python #可视化",
+    "tags_en": [
+      "data science",
+      "analytics",
+      "customer analysis",
+      "python"
+    ],
+    "tags_zh": [
+      "数据科学",
+      "分析",
+      "客户分析",
+      "Python"
+    ],
+    "favorites": 142
+  },
+  {
+    "id": "text-9",
+    "type": "text",
+    "title_en": "Game Design Prompt: Puzzle Mechanics",
+    "title_zh": "游戏设计提示：解谜机制",
+    "content_en": "Design a new puzzle mechanic for a mobile game that hasn't been widely used before. Describe the core gameplay loop, user interface, progression system, and how it would be monetized. Consider both casual and hardcore players.\n\n**Keywords:** #game-design #puzzle #mobile #mechanics #gamedev",
+    "content_zh": "为一款手机游戏设计一种以前未被广泛使用的新解谜机制。描述核心游戏循环、用户界面、进度系统以及如何实现盈利。考虑休闲玩家和硬核玩家。\n\n**关键词：** #游戏设计 #解谜 #手机 #机制 #游戏开发",
+    "tags_en": [
+      "game design",
+      "puzzle",
+      "mobile",
+      "mechanics"
+    ],
+    "tags_zh": [
+      "游戏设计",
+      "解谜",
+      "手机",
+      "机制"
+    ],
+    "favorites": 87
+  },
+  {
+    "id": "text-10",
+    "type": "text",
+    "title_en": "Cooking Prompt: Fusion Cuisine",
+    "title_zh": "烹饪提示：融合菜系",
+    "content_en": "Create a fusion dish combining elements from two distinct culinary traditions (e.g., Japanese and Mexican, Italian and Indian). Include a recipe with detailed instructions, ingredient list, and plating suggestions. Explain how the flavors complement each other.\n\n**Keywords:** #cooking #fusion #cuisine #recipe #culinary",
+    "content_zh": "创作一道融合菜，结合两种不同的烹饪传统元素（例如，日式和墨西哥式，意式和印度式）。包括详细说明的食谱、配料清单和摆盘建议。解释这些味道如何相互补充。\n\n**关键词：** #烹饪 #融合 #菜系 #食谱 #烹饪",
+    "tags_en": [
+      "cooking",
+      "fusion",
+      "cuisine",
+      "recipe"
+    ],
+    "tags_zh": [
+      "烹饪",
+      "融合",
+      "菜系",
+      "食谱"
+    ],
+    "favorites": 115
+  },
+  {
+    "id": "text-11",
+    "type": "text",
+    "title_en": "Travel Prompt: Hidden Gems",
+    "title_zh": "旅行提示：隐藏的瑰宝",
+    "content_en": "Write a travel guide highlighting 5 hidden gems in a city of your choice. Focus on places that aren't in typical tourist guides. Include practical information like how to get there, opening hours, and local tips. Use an engaging narrative style.\n\n**Keywords:** #travel #guide #hidden-gems #adventure #exploration",
+    "content_zh": "写一份旅行指南，重点介绍你选择的城市中的5个隐藏瑰宝。重点关注典型旅游指南中没有的地方。包括如何到达、开放时间和当地提示等实用信息。使用引人入胜的叙述风格。\n\n**关键词：** #旅行 #指南 #隐藏的瑰宝 #冒险 #探索",
+    "tags_en": [
+      "travel",
+      "guide",
+      "adventure",
+      "exploration"
+    ],
+    "tags_zh": [
+      "旅行",
+      "指南",
+      "冒险",
+      "探索"
+    ],
+    "favorites": 168
+  },
+  {
+    "id": "text-12",
+    "type": "text",
+    "title_en": "Fitness Prompt: Home Workouts",
+    "title_zh": "健身提示：家庭锻炼",
+    "content_en": "Design a 30-minute full-body workout routine that requires no equipment and can be done at home. Include warm-up, main exercises with proper form instructions, and cool-down. Provide modifications for different fitness levels.\n\n**Keywords:** #fitness #workout #home #exercise #health",
+    "content_zh": "设计一个30分钟的全身锻炼计划，无需器械，在家即可完成。包括热身、主要运动及正确的姿势指导，以及放松运动。为不同健身水平提供调整方案。\n\n**关键词：** #健身 #锻炼 #家庭 #运动 #健康",
+    "tags_en": [
+      "fitness",
+      "workout",
+      "home",
+      "exercise"
+    ],
+    "tags_zh": [
+      "健身",
+      "锻炼",
+      "家庭",
+      "运动"
+    ],
+    "favorites": 203
+  },
+  {
+    "id": "text-13",
+    "type": "text",
+    "title_en": "Photography Prompt: Street Photography",
+    "title_zh": "摄影提示：街头摄影",
+    "content_en": "Plan a street photography project focused on capturing human emotions in urban environments. Discuss your approach to composition, lighting, and ethical considerations. Include example shots and post-processing techniques.\n\n**Keywords:** #photography #street #urban #emotion #art",
+    "content_zh": "策划一个街头摄影项目，专注于捕捉城市环境中的人类情感。讨论你在构图、光线和道德考虑方面的做法。包括示例照片和后期处理技术。\n\n**关键词：** #摄影 #街头 #城市 #情感 #艺术",
+    "tags_en": [
+      "photography",
+      "street",
+      "urban",
+      "art"
+    ],
+    "tags_zh": [
+      "摄影",
+      "街头",
+      "城市",
+      "艺术"
+    ],
+    "favorites": 127
+  },
+  {
+    "id": "text-14",
+    "type": "text",
+    "title_en": "Music Prompt: Film Score Composition",
+    "title_zh": "音乐提示：电影配乐作曲",
+    "content_en": "Compose a film score for a suspenseful chase scene. Describe the instruments, tempo, and musical techniques you would use to build tension. Include a brief musical notation or detailed description of key motifs.\n\n**Keywords:** #music #composition #film-score #suspense #orchestration",
+    "content_zh": "为紧张刺激的追逐场面创作电影配乐。描述你将使用的乐器、节奏和音乐技巧来营造紧张感。包括简短的乐谱或关键主题的详细描述。\n\n**关键词：** #音乐 #作曲 #电影配乐 #悬念 #管弦乐编曲",
+    "tags_en": [
+      "music",
+      "composition",
+      "film score",
+      "suspense"
+    ],
+    "tags_zh": [
+      "音乐",
+      "作曲",
+      "电影配乐",
+      "悬念"
+    ],
+    "favorites": 92
+  },
+  {
+    "id": "image-5",
+    "type": "image",
+    "title_en": "Steampunk Airship",
+    "title_zh": "蒸汽朋克飞艇",
+    "prompt_en": "A massive steampunk airship with brass fittings, billowing sails, spinning gears, and smoke stacks, flying over a Victorian cityscape. Dramatic lighting, intricate details, cinematic composition. --ar 16:9 --v 5.2 --s 750 --q 2",
+    "prompt_zh": "一艘巨大的蒸汽朋克飞艇，配有黄铜配件、鼓胀的船帆、旋转的齿轮和烟囱，飞越维多利亚风格的城市景观。戏剧性灯光，细节丰富，电影构图。--ar 16:9 --v 5.2 --s 750 --q 2",
+    "imageUrl": "/images/SteampunkAirship.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "steampunk",
+      "airship",
+      "victorian",
+      "fantasy"
+    ],
+    "styleTags_zh": [
+      "蒸汽朋克",
+      "飞艇",
+      "维多利亚",
+      "奇幻"
+    ],
+    "favorites": 280
+  },
+  {
+    "id": "image-6",
+    "type": "image",
+    "title_en": "Underwater Coral Reef",
+    "title_zh": "水下珊瑚礁",
+    "prompt_en": "Vibrant underwater coral reef teeming with colorful fish, sea turtles, and intricate coral formations. Sunlight filtering through the water, creating a magical atmosphere. Ultra-detailed, 8K resolution. --ar 3:2 --v 5.1 --s 1000 --style vivid",
+    "prompt_zh": "生机勃勃的水下珊瑚礁，栖息着色彩斑斓的鱼类、海龟和复杂的珊瑚构造。阳光透过水面，营造出神奇的氛围。超精细，8K分辨率。--ar 3:2 --v 5.1 --s 1000 --style vivid",
+    "imageUrl": "/images/UnderwaterCoralReef.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "underwater",
+      "nature",
+      "ocean",
+      "vibrant"
+    ],
+    "styleTags_zh": [
+      "水下",
+      "自然",
+      "海洋",
+      "鲜艳"
+    ],
+    "favorites": 320
+  },
+  {
+    "id": "image-7",
+    "type": "image",
+    "title_en": "Minimalist Architecture",
+    "title_zh": "极简主义建筑",
+    "prompt_en": "Modern minimalist architecture with clean lines, large glass panels, and concrete surfaces. Set in a desert landscape with dramatic shadows. Architectural photography style, high contrast, professional lighting. --ar 2:3 --v 5.2 --s 750 --style raw",
+    "prompt_zh": "现代极简主义建筑，线条简洁，大面积玻璃面板和混凝土表面。设置在沙漠景观中，带有戏剧性的阴影。建筑摄影风格，高对比度，专业灯光。--ar 2:3 --v 5.2 --s 750 --style raw",
+    "imageUrl": "/images/MinimalistArchitecture.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "architecture",
+      "minimalist",
+      "modern",
+      "design"
+    ],
+    "styleTags_zh": [
+      "建筑",
+      "极简主义",
+      "现代",
+      "设计"
+    ],
+    "favorites": 190
+  },
+  {
+    "id": "image-8",
+    "type": "image",
+    "title_en": "Space Exploration",
+    "title_zh": "太空探索",
+    "prompt_en": "Futuristic space station orbiting a distant exoplanet with rings, featuring sleek spacecraft and advanced technology. Nebula background with vibrant colors. Sci-fi concept art style. --ar 16:9 --v 5.2 --s 1000 --chaos 20",
+    "prompt_zh": "围绕带有光环的遥远系外行星运行的未来主义空间站，配有流线型航天器和先进技术。星云背景色彩鲜艳。科幻概念艺术风格。--ar 16:9 --v 5.2 --s 1000 --chaos 20",
+    "imageUrl": "/images/SpaceExploration.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "space",
+      "sci-fi",
+      "futuristic",
+      "concept art"
+    ],
+    "styleTags_zh": [
+      "太空",
+      "科幻",
+      "未来主义",
+      "概念艺术"
+    ],
+    "favorites": 375
+  },
+  {
+    "id": "image-9",
+    "type": "image",
+    "title_en": "Vintage Poster Art",
+    "title_zh": "复古海报艺术",
+    "prompt_en": "Retro travel poster of a tropical island paradise with palm trees, crystal clear water, and a vintage airplane. 1950s style with muted colors and hand-drawn typography. --ar 3:2 --v 5 --s 500 --style artistic",
+    "prompt_zh": "热带岛屿天堂的复古旅游海报，有棕榈树、晶莹剔透的海水和复古飞机。50年代风格，颜色柔和，手绘字体。--ar 3:2 --v 5 --s 500 --style artistic",
+    "imageUrl": "/images/VintagePosterArt.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "vintage",
+      "poster",
+      "travel",
+      "retro"
+    ],
+    "styleTags_zh": [
+      "复古",
+      "海报",
+      "旅游",
+      "怀旧"
+    ],
+    "favorites": 210
+  },
+  {
+    "id": "image-10",
+    "type": "image",
+    "title_en": "Abstract Geometric Pattern",
+    "title_zh": "抽象几何图案",
+    "prompt_en": "Abstract geometric pattern with overlapping shapes, vibrant colors, and dynamic composition. Inspired by modern art movements. Clean lines and bold contrasts. --ar 1:1 --v 5.2 --s 750 --style raw",
+    "prompt_zh": "抽象几何图案，具有重叠形状、鲜艳色彩和动态构图。灵感来自现代艺术运动。线条简洁，对比鲜明。--ar 1:1 --v 5.2 --s 750 --style raw",
+    "imageUrl": "/images/AbstractGeometricPattern.jpeg?height=400&width=400",
+    "styleTags_en": [
+      "abstract",
+      "geometric",
+      "pattern",
+      "modern"
+    ],
+    "styleTags_zh": [
+      "抽象",
+      "几何",
+      "图案",
+      "现代"
+    ],
+    "favorites": 165
+  },
+  {
+    "id": "image-11",
+    "type": "image",
+    "title_en": "Medieval Castle",
+    "title_zh": "中世纪城堡",
+    "prompt_en": "Majestic medieval castle perched on a rocky cliff overlooking a misty valley. Stone architecture with towers and battlements. Moody atmosphere with dramatic clouds. --ar 3:2 --v 5.1 --s 750 --style raw",
+    "prompt_zh": "雄伟的中世纪城堡坐落在俯瞰雾蒙蒙山谷的岩石悬崖上。石制建筑，有塔楼和城垛。氛围忧郁，云彩戏剧性。--ar 3:2 --v 5.1 --s 750 --style raw",
+    "imageUrl": "/images/MedievalCastle.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "medieval",
+      "castle",
+      "fantasy",
+      "architecture"
+    ],
+    "styleTags_zh": [
+      "中世纪",
+      "城堡",
+      "奇幻",
+      "建筑"
+    ],
+    "favorites": 295
+  },
+  {
+    "id": "image-12",
+    "type": "image",
+    "title_en": "Futuristic Car Design",
+    "title_zh": "未来主义汽车设计",
+    "prompt_en": "Sleek futuristic electric car design with aerodynamic curves, LED lighting strips, and holographic displays. Set on a glossy white surface with dramatic reflections. Concept art style. --ar 16:9 --v 5.2 --s 1000 --stylize 750",
+    "prompt_zh": "流线型未来主义电动汽车设计，具有空气动力学曲线、LED灯带和全息显示器。设置在光滑的白色表面上，有戏剧性的反射效果。概念艺术风格。--ar 16:9 --v 5.2 --s 1000 --stylize 750",
+    "imageUrl": "/images/FuturisticCarDesign.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "futuristic",
+      "automotive",
+      "design",
+      "technology"
+    ],
+    "styleTags_zh": [
+      "未来主义",
+      "汽车",
+      "设计",
+      "技术"
+    ],
+    "favorites": 265
+  },
+  {
+    "id": "image-13",
+    "type": "image",
+    "title_en": "Gothic Fantasy Character",
+    "title_zh": "哥特式奇幻角色",
+    "prompt_en": "Gothic fantasy character design, female sorceress with dark robes, glowing eyes, and mystical symbols. Atmospheric lighting with smoke and magical effects. Detailed character concept art. --ar 9:16 --v 5.2 --s 800 --chaos 30",
+    "prompt_zh": "哥特式奇幻角色设计，身穿黑袍的女巫，眼睛发光，有神秘符号。氛围灯光，有烟雾和魔法效果。详细的角色概念艺术。--ar 9:16 --v 5.2 --s 800 --chaos 30",
+    "imageUrl": "/images/GothicFantasyCharacter.jpeg?height=600&width=400",
+    "styleTags_en": [
+      "gothic",
+      "fantasy",
+      "character design",
+      "dark"
+    ],
+    "styleTags_zh": [
+      "哥特式",
+      "奇幻",
+      "角色设计",
+      "黑暗"
+    ],
+    "favorites": 310
+  },
+  {
+    "id": "image-14",
+    "type": "image",
+    "title_en": "Food Photography",
+    "title_zh": "美食摄影",
+    "prompt_en": "Professional food photography of a gourmet burger with fresh ingredients, melted cheese, and artisanal bun. Studio lighting, shallow depth of field, overhead angle. Commercial photography style. --ar 3:2 --v 5.2 --s 750 --style photographic",
+    "prompt_zh": "专业美食摄影，展示一份配有新鲜食材、融化的奶酪和手工面包的精品汉堡。工作室灯光，浅景深，俯拍角度。商业摄影风格。--ar 3:2 --v 5.2 --s 750 --style photographic",
+    "imageUrl": "/images/FoodPhotography.jpeg?height=400&width=600",
+    "styleTags_en": [
+      "food",
+      "photography",
+      "gourmet",
+      "commercial"
+    ],
+    "styleTags_zh": [
+      "食物",
+      "摄影",
+      "美食",
+      "商业"
+    ],
+    "favorites": 185
   }
 ]

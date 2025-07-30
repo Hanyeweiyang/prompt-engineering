@@ -1,93 +1,82 @@
-# Prompt Engineering Studio
+# Prompt Engineering - 提示工程开发平台
 
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
 ![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)
 
 ## 项目简介
 
-Prompt Engineering Studio 是一个基于 Next.js 的提示工程开发平台，旨在帮助开发者高效地创建、测试和部署 AI 提示工程应用。
+Prompt Engineering 是一个基于 Next.js 的提示工程分享平台，旨在帮助开发者高效地创建、测试和部署 AI 提示工程应用。支持中英文对照，项目中为示例的提示词。
+
+## 预览图
+
+### 首页
+
+![预览图](./public/readme-img/首页.png)
+
+### 文案
+
+![预览图](./public/readme-img/文案.png)
+
+### 图像
+
+![预览图](./public/readme-img/图像.png)
 
 ## 功能特点
 
-- **一键部署**：通过 Vercel 平台实现快速部署
 - **模块化开发**：支持组件化开发，便于代码复用
 - **国际化支持**：内置多语言支持，便于全球用户使用
 - **响应式设计**：适配各种设备，提供最佳用户体验
 
-## 目录结构
+## 项目结构说明
 
-```
-prompt-engineering/
-├── app/         # 应用主目录
-├── components/  # UI 组件
-├── context/     # 全局状态管理
-├── data/        # 数据处理
-├── hooks/       # 自定义钩子
-├── locales/     # 国际化资源
-├── public/      # 静态资源
-├── styles/      # 样式文件
-├── README.md    # 项目说明
-├── components.json # 组件配置
-├── next.config.mjs # Next.js 配置
-├── package.json    # 项目依赖
-├── pnpm-lock.yaml  # 依赖锁定
-├── postcss.config.mjs # CSS 处理配置
-├── tailwind.config.ts # Tailwind CSS 配置
-└── tsconfig.json   # TypeScript 配置
-```
+- `/app` - Next.js 应用程序主目录
+- `/components` - UI 组件和自定义组件
+- `/contexts` - React 上下文，包括语言设置
+- `/hooks` - 自定义 React 钩子
+- `/services` - 后端服务接口，如汇率服务
+- `/public` - 静态资源文件
+- `/styles` - 全局样式定义
 
-## 使用指南
+## 开发环境配置
 
-### 环境准备
+### 前置要求
 
-- Node.js 18.0+
-- pnpm 包管理器
-- Vercel 账号
+- Node.js 18.x 或更高版本
+- pnpm (推荐) 或 npm, yarn
 
 ### 安装依赖
 
 ```bash
+# 克隆项目
+git clone https://github.com/Hanyeweiyang/unit-converter.git
+cd unit-converter
+
+# 使用pnpm安装依赖
 pnpm install
 ```
 
-### 本地开发
+### 开发命令
 
 ```bash
+# 启动开发服务器
 pnpm dev
-```
 
-### 构建项目
-
-```bash
+# 构建生产版本
 pnpm build
+
+# 启动生产服务器
+pnpm start
+
+# 代码检查
+pnpm lint
 ```
 
-### 部署项目
+## 部署信息
 
-```bash
-pnpm deploy
-```
+项目已部署在 Vercel 平台：
 
-## 贡献指南
-
-欢迎提交 Pull Request 或 Issue 来帮助改进项目。在提交代码前，请确保：
-
-- 代码符合项目代码风格
-- 通过所有测试用例
-- 更新了相应的文档
+**[https://zjh-unit-converter.vercel.app/](https://zjh-unit-converter.vercel.app/)**
 
 ## 许可证
 
-本项目采用 MIT 许可证。请查看 LICENSE 文件了解更多信息。
-
-## 联系方式
-
-如有任何问题或建议，请通过以下方式联系：
-
-- GitHub Issue
-- 项目讨论区
-- 邮件支持
-
----
-
-感谢您使用 Prompt Engineering Studio，让我们一起推动 AI 提示工程的发展！
+本项目采用 MIT 许可证

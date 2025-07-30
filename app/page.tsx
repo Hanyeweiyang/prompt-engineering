@@ -11,8 +11,8 @@ import { useTranslation } from "@/hooks/use-translation"
 import { AnimatedBackground } from "@/components/animated-background" // Import the new component
 
 export default function HomePage() {
-  const featuredTextPrompts = promptsData.filter((p) => p.type === "text").slice(0, 3)
-  const featuredImagePrompts = promptsData.filter((p) => p.type === "image").slice(0, 3)
+  const featuredTextPrompts = promptsData.filter((p) => p.type === "text").slice(0, 4)
+  const featuredImagePrompts = promptsData.filter((p) => p.type === "image").slice(0, 4)
   const t = useTranslation()
 
   return (

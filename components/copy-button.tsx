@@ -18,12 +18,54 @@ export function CopyButton({ textToCopy, ...props }: CopyButtonProps) {
   const t = useTranslation()
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(textToCopy)
-    setCopied(true)
-    toast({
-      title: t("copy_to_clipboard_toast"),
-    })
-    setTimeout(() => setCopied(false), 2000)
+    // 检查是否支持 navigator.clipboard
+    if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(textToCopy).then(() => {
+        setCopied(true)
+        toast({
+          title: t("copy_to_clipboard_toast"),
+        })
+        setTimeout(() => setCopied(false), 2000)
+      }).catch((err) => {
+        console.error('Failed to copy text: ', err)
+        // 如果 Clipboard API 失败，使用 fallback 方法
+        fallbackCopyTextToClipboard(textToCopy)
+      })
+    } else {
+      // 不支持 Clipboard API 时使用 fallback 方法
+      fallbackCopyTextToClipboard(textToCopy)
+    }
+  }
+
+  // Fallback 方法：创建临时 textarea 并使用 document.execCommand
+  const fallbackCopyTextToClipboard = (text: string) => {
+    const textArea = document.createElement("textarea")
+    textArea.value = text
+    
+    // 避免滚动到底部
+    textArea.style.top = "0"
+    textArea.style.left = "0"
+    textArea.style.position = "fixed"
+    textArea.style.opacity = "0"
+    
+    document.body.appendChild(textArea)
+    textArea.focus()
+    textArea.select()
+    
+    try {
+      const successful = document.execCommand('copy')
+      setCopied(successful)
+      if (successful) {
+        toast({
+          title: t("copy_to_clipboard_toast"),
+        })
+        setTimeout(() => setCopied(false), 2000)
+      }
+    } catch (err) {
+      console.error('Fallback: Oops, unable to copy', err)
+    }
+    
+    document.body.removeChild(textArea)
   }
 
   return (
