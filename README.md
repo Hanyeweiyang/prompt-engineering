@@ -1,6 +1,6 @@
 # Prompt Engineering - 提示工程开发平台
 
-![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://prompt-engineering-five.vercel.app/)
 ![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)
 
 ## 项目简介
@@ -48,8 +48,8 @@ Prompt Engineering 是一个基于 Next.js 的提示工程分享平台，旨在�
 
 ```bash
 # 克隆项目
-git clone https://github.com/Hanyeweiyang/unit-converter.git
-cd unit-converter
+git clone https://github.com/Hanyeweiyang/prompt-engineering.git
+cd prompt-engineering
 
 # 使用pnpm安装依赖
 pnpm install
@@ -75,7 +75,7 @@ pnpm lint
 
 项目已部署在 Vercel 平台：
 
-**[https://zjh-unit-converter.vercel.app/](https://zjh-unit-converter.vercel.app/)**
+**[在线浏览提示词库](https://prompt-engineering-five.vercel.app/)**
 
 ## 许可证
 
